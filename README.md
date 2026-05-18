@@ -1,7 +1,6 @@
 # Olá 👋, eu sou Nicolas Antônio
 
 🎓 Estudante de Engenharia de Software | UNINTER  
-📍 Paraibuna, São Paulo — Brasil  
 
 Estou construindo projetos reais do zero, aplicando boas práticas e evoluindo todos os dias.  
 Focado em desenvolver aplicações completas, tanto no front-end quanto no back-end.  
@@ -11,21 +10,19 @@ Buscando minha primeira oportunidade como estagiário em desenvolvimento de soft
 
 ## 🌐 Onde me encontrar
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicolas%20Antônio-0A66C2?style=for-the-badge&logo=linkedin)
-
-](https://www.linkedin.com/in/nicolasantonioa)
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-nicol4s__15-E4405F?style=for-the-badge&logo=instagram)
-
-](https://www.instagram.com/nicol4s_15)
-[
-
-![GitHub](https://img.shields.io/badge/GitHub-Nicolas7720-181717?style=for-the-badge&logo=github)
-
-](https://github.com/Nicolas7720)
+<div align="left">
+  <a href="https://www.linkedin.com/in/nicolasantonioa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Antônio-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/nicol4s_15" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-nicol4s__15-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Nicolas7720" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Nicolas7720-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
 
 ---
 
