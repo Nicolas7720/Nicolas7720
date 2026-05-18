@@ -57,7 +57,7 @@ estagiário em desenvolvimento.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nicolas7720&theme=dark" alt="Contribution graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas7720&theme=github-compact&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas7720&theme=black&hide_border=true" alt="Contribution graph" />
   <img src="https://ghchart.rshah.org/Nicolas7720" alt="Contribution graph" />
 </div>
 
