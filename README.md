@@ -63,25 +63,35 @@ estagiário em desenvolvimento.</p>
 
 ###
 
+<h2 align="left">Status</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas7720&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1&custom_title=Status" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas7720&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&order=2&theme=react&custom_title=Linguagens mais Utilizadas" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas7720&radius=16&theme=react&area=true&order=5&custom_title=Contribuições&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" />
+</div>
+
+###
+
 <h2 align="left">Socialmedia</h2>
 
 ###
 
 <div align="left">
-  <a href="https://br.linkedin.com/in/nicolas-ant%C3%B4nio-9109972aa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/nicolasantonioa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://discord.gg/w8zkhuw6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
   </a>
-  <a href="nicolascecco343@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:nicolascecco343@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-  <a href="https://www.instagram.com/nicol4s_15/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/seu_instagram" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-
-###
 </div>
 
 ###
